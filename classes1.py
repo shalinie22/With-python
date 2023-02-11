@@ -12,5 +12,11 @@ print(same)
 
 
 
+# Example 2
+class Hai:
+    def func(self):
+        print("hello world")
 
+call=Hai()
+call.func() 
 
