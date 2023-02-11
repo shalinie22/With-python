@@ -20,3 +20,19 @@ class Hai:
 call=Hai()
 call.func() 
 
+
+
+#example 3
+
+class course:
+    def __init__(self):
+        self.name="python"
+        self.course="Data science"
+    def first(self):
+        name="python programming"
+        print("func called", name)
+
+courseobj=course()
+courseobj.course="ML"
+courseobj.first()
+print(courseobj.course)
