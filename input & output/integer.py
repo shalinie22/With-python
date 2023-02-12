@@ -13,5 +13,5 @@
 # 2
 
 
-
+# get the input from the user and prints 
 print(int(input()))
